@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background: url(../img/текстура.jpg);
+}
+a {
+    text-decoration: none;
+}
+h1 {
+ font-style: italic;
+ color: brown;
+}
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  color: darkblue;
+}
+#underline {
+    font-style: italic;
+}
+img {
+ font-weight: 400;
+}
+.imagine {
+    width: 300px; height: 150px;
+    border: dotted;
+}
+.imagine:hover {
+    transform: scale(1.5);
+}
+.news {
+    margin: 10px 20;
+}
+ul {
+    color: cadetblue;
+}
+a {
+    color: inherit;
+}
+
+
+    
+   
+
+
